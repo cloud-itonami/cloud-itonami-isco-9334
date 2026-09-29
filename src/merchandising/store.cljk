@@ -1,7 +1,7 @@
 (ns merchandising.store
   "SSoT for the ISCO-08 9334 independent retail merchandising &
   restocking practice actor (itonami actor pattern, ADR-2607011000 /
-  CLAUDE.md Actors section; README's 'Robotics premise' — a
+  AGENTS.md Actors section; README's 'Robotics premise' — a
   shelf-restocking and inventory-scanning robot performs shelf
   restocking, price-tag verification and out-of-stock flagging under
   this advisor/governor pair, which never dispatches hardware itself
